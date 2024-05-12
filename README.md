@@ -1,7 +1,9 @@
-## GenAI-powered-Health-and-wellness-navigator
-#Ayurvedic Health and Wellness with GenAI: Leveraging RAG and Langchain
+# GenAI-powered-Health-and-wellness-navigator
+Ayurvedic Health and Wellness with GenAI: Leveraging RAG and Langchain
 
 ![image](https://github.com/AdithMurari/GenAI-powered-Health-and-wellness-navigator/assets/140071841/8656dc35-8b3e-48d0-b756-98ecb06d5dbf)
+
+# Overview
 
 This project introduces an advanced Ayurvedic health and wellness navigator empowered by Langchain framework, and the open-source large language model, Llama 3. The Retrieval Augmented Generation (RAG) pipeline is designed to offer tailored solutions and optimize response customization for precise Ayurvedic health guidance.
 
